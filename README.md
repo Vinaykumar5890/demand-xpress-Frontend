@@ -1,6 +1,3 @@
-Here’s a well-structured **README.md** for your React + Node.js contact management app with authentication, toast notifications, loader, and responsive UI:
-
-```markdown
 # Contact Manager App
 
 A full-stack contact management application built with **React.js**, **Node.js**, **Express**, and **MongoDB**. Users can register, login, manage contacts (add, edit, delete), and see a responsive, modern interface. Toast notifications and loaders enhance the user experience.
